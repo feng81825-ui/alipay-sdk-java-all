@@ -1,6 +1,7 @@
 const appId = ""; // 应用id配置
 const appPrivateKey = ""; //应用私钥配置
-const alipayPublicKey = ""; //支付宝公钥配置
+const alipayPublicKey = ""; //MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxTzeXdlJEupEZW3T3cEYycYTvaILzCuJVbxljVmfuWgN+knDj4+LRuuXe+zUAzWYwhDqi8BruDoTnX7H9W/r+g9F5jy8S/2nMFUGTtVrVyPTQAa2ePB4sSLfqHe4N6R0jCw6t3PDpZnDYi53opKwbRXzFNDWcCBw6iFX1femNKaUXiKRNFgjkwdJNdDBbcxuLACKqjt7Y1GwMNACinLnDediyLxP8+TLJzLnY1sm/n+IeQgS/u+EsBRvWUkMfzqqR3/YE34cc9jvVuCFEjnRw+DGRSkQZT4eu6A8GOWXNG0dNO1dKsOjM9jbkBWm6XNfpfOXrxCYCAywNh7VLeiqTwIDAQAB
+
 
 init(appId, appPrivateKey, alipayPublicKey);
 signRequest();
